@@ -4,8 +4,6 @@
 
 Je suis un aspirant urbaniste avec intérêts divers en bon gouvernement, inégalités sociales et résilience climatique. Je suis actuellement basé à Vancouver, mais je suis originaire de Pékin et de Montréal.
 
-I am an aspiring urban planner with varied interests in understanding efficient political governance, identifying spatial inequalities in the urban sphere, and building resilient cities during our ongoing climate emergency. I am currently based out of Vancouver but grew up in Beijing and Montreal.
-
 ## Mon parcours
 
 Je suis actuellement candidat à la maîtrise en Aménagement urbain et régional (MCRP) de l'université de la Colombie-Britannique (UBC), spécialisé en planification sociale et design urbain.
