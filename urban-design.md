@@ -2,8 +2,6 @@
 
 ## Urban Design Work
 
-***
-
 ### Site Analysis of Metrotown, Burnaby
 
 In this collaborative project, we were tasked with analyzing the built environment of Metrotown, a Metro Vancouver regional town centre located in Burnaby. I created the following cross-sections of prototypical urban morphologies in the neighbourhood as part of the project in Adobe Illustrator.
