@@ -16,7 +16,7 @@ Je suis diplomé en études urbaines et sociologie de l'université McGill avec 
 
 ### [Design urbain](/urban-design) · [Recherche et analyse](/research) · [Exécution des plans](/indicators)
 
-## Connectez avec moi!
+## Connectons-nous!
 
 Téléphone : (438) 863-9163
 
