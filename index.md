@@ -10,7 +10,7 @@ I have a B.A. (Hons.) from McGill University in Urban Studies and Sociology. My 
 
 ## My Work
 
-### Urban Design · Research and Analysis · Plan Implementation
+### [Urban Design](/urban-design) · [Research and Analysis](/research) · [Plan Implementation](/indicators)
 
 ## Connect with Me
 
