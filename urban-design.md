@@ -4,4 +4,4 @@ permalink: /urban-design/
 
 ## Urban Design Work
 
-![Cross-section of Metrotown, Burnaby at Telford Avenue and Beresford Street](/images/Metrotown South Final2.png "Cross-section of Metrotown, Burnaby at Telford Avenue and Beresford Street")
+![Cross-section of Metrotown, Burnaby at Telford Avenue and Beresford Street](/images/Metrotown_South_Final2.png "Cross-section of Metrotown, Burnaby at Telford Avenue and Beresford Street")
