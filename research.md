@@ -26,6 +26,6 @@ In this term paper submitted for a graduate-level seminar course on contemporary
 
 * [**Download This Paper**](https://github.com/rfwang4/rfwang4.github.io/raw/main/documents/GEOG%20525%20Term%20Paper.pdf)
 
-In this term paper submitted for an upper-level seminar on urban ethnography, I read two ethnographies—[*Driving After Class*](https://www.ucpress.edu/book/9780520277755/driving-after-class) by Rachel Heiman and [*The Changs Next Door to the Diazes*](https://www.upress.umn.edu/book-division/books/the-changs-next-door-to-the-daazes) by Wendy Cheng, to discuss these two different perspectives on the construction of racial identities and exclusions in the North American suburb.
+In this term paper submitted for an upper-level seminar on urban ethnography, I read two ethnographies—[*Driving After Class*](https://www.ucpress.edu/book/9780520277755/driving-after-class) by Rachel Heiman and [*The Changs Next Door to the Diazes*](https://www.upress.umn.edu/book-division/books/the-changs-next-door-to-the-daazes) by Wendy Cheng—to discuss these two different perspectives on the construction of racial identities and exclusions in the North American suburb. I received an A in this course.
 
 * [**Download This Paper**](https://github.com/rfwang4/rfwang4.github.io/raw/main/documents/Suburban%20Life%20and%20Racial%20Construction.pdf)
