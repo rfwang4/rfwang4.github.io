@@ -16,10 +16,10 @@ In this collaborative project, we were tasked with analyzing the built environme
 
 ***
 
-### Redesign of Scott Road Corridor in Surrey, BC
+### Redesign of Strawberry Hill Shopping Centre in Surrey, BC
 
-In this collaborative project, we were tasked with re-envisioning the Scott Road/120th Street corridor in Surrey, BC through the lens of landscape ecology, as described by Dramstad et al. in the book *[Landscape Ecology Principles in Landscape Architecture and Land-Use Planning](https://islandpress.org/books/landscape-ecology-principles-landscape-architecture-and-land-use-planning)*. As part of my work on this project, I created the following illustrations of our hypothetical design intervention at the Scott Road/99th Avenue intersection, comprising a multi-use rail trail and elevated wildlife crossing.
+In this collaborative project, we were tasked with re-envisioning a part of the Strawberry Hill neighbourhood in Surrey and chose to focus on the site of the Strawberry Hill Shopping Centre. As part of my work on this project, I created the following site plan showcasing our proposed design interventions and conceptual future neighbourhood layout.
 
-![Various illustrations of proposed design interventions at Scott Road and 99th Avenue](https://raw.githubusercontent.com/rfwang4/rfwang4.github.io/main/images/Scott%20Road%20intersection.png)
+![Site plan of conceptual re-envisioning of Strawberry Hill Shopping Centre site in Surrey](https://raw.githubusercontent.com/rfwang4/rfwang4.github.io/main/images/Site%20plan.png)
 
-**Fig. 3. Various illustrations of proposed design interventions at Scott Road and 99th Avenue**
+**Fig. 3. Site plan of conceptual re-envisioning of Strawberry Hill Shopping Centre site in Surrey**
