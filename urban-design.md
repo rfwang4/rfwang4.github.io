@@ -23,3 +23,13 @@ In this collaborative project, we were tasked with re-envisioning a part of the 
 ![Site plan of conceptual re-envisioning of Strawberry Hill Shopping Centre site in Surrey](https://raw.githubusercontent.com/rfwang4/rfwang4.github.io/main/images/Site%20plan.png)
 
 **Fig. 3. Site plan of conceptual re-envisioning of Strawberry Hill Shopping Centre site in Surrey**
+
+***
+
+### Reimagining North Parkade at UBC
+
+This slide, which I made for a campus parking reform proposal prepared for a transportation planning class, shows two-point perspective drawings of current and hypothetical future land use on the North Parkade site on the UBC Vancouver campus.
+
+![Slide showing current and hypothetical future structures on the site of North Parkade at UBC](https://raw.githubusercontent.com/rfwang4/rfwang4.github.io/main/images/North%20Parkade.png)
+
+**Fig. 4. Slide showing current and hypothetical future structures on the site of North Parkade at UBC**
